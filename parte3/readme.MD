@@ -8,13 +8,13 @@
 ### Ejecucion:
 
 ```bash
-git clone https://github.com/gongalito/modelo-lineal-estatura.git
+git clone https://github.com/gongalito/modelos-estadisticos-obligatorio1.git
 
-cd modelo-lineal-estatura
+cd modelos-estadisticos-obligatorio1
+
+cd parte3
 
 pip install -r requirements.txt
 
 python main.py
-
-python convergencia_RMSE.py
 ```
